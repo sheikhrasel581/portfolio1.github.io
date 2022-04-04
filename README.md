@@ -1,6 +1,6 @@
 # portfolio-v1
 
-Personal website, you can visit it at [www.sheikhrasel581.com](http://www.sheikhrasel581.com).  
+Personal website, you can visit it at [https://sheikhrasel581.github.io/sheikhrasel_portfolio1.github.io/](https://sheikhrasel581.github.io/sheikhrasel_portfolio1.github.io/).  
 
 It's just static JS/CSS, hosted for free using Github Pages.
 
